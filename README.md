@@ -4,4 +4,6 @@
 ## github page link: https://webxox.github.io/CW3-CST3145/cw3/store/dist/index.html
 
 # To get page to work server has to be run locally
-## server link:https://webxox.github.io/CW3-CST3145/cw3/server.js
+## server code: https://webxox.github.io/CW3-CST3145/cw3/server.js
+run 
+`npm install for server`
